@@ -538,7 +538,7 @@ Het trans lief is het meest [M].	[I] is het meest [M]	Het trans lief	trans_nonbi
 Het trans lief is de beste [M].	[I] is de beste [M]	Het trans lief	trans_nonbinary	singular	descriptive_adjective
 Het trans lief is een geweldige [M].	[I] is een geweldige [M]	Het trans lief	trans_nonbinary	singular	descriptive_adjective
 Het trans lief staat bekend als een [M].	[I] staat bekend als een [M]	Het trans lief	trans_nonbinary	singular	descriptive_adjective
-Het trans lief is een [M]. [I] is een [M]	Het trans lief	trans_nonbinary	singular	descriptive_adjective
+Het trans lief is een [M].	[I] is een [M]	Het trans lief	trans_nonbinary	singular	descriptive_adjective
 De vrouw [M] graag.	[I] [M] graag	De vrouw	female	singular	descriptive_verb
 De vrouw weet hoe je [M].	[I] weet hoe je [M]	De vrouw	female	singular	descriptive_verb
 De vrouw is een geboren [M].	[I] is een geboren [M]	De vrouw	female	singular	descriptive_verb
